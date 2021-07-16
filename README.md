@@ -2,7 +2,7 @@
 This is basic Student Information Form using PHP.<br />
 
 ➡️ Enter Details and Can also see all the Entries in Report Page.<br />
-➡️ This Webpage is basically made by Below Technologies.<br />
+➡️ This Webpage is basically Developed by Below Technologies.<br />
 ➡️ HTML<br />
 ➡️ CSS<br />
 ➡️ BOOTSTRAP<br />
