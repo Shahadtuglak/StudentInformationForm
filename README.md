@@ -1,13 +1,13 @@
 # Student Information Form
-This is basic Student Information Form using PHP.<br /><br /><br />
+This is basic Student Information Form using PHP.<br />
 
-➡️ Enter Details and Can also see all the Entries in Report Page.<br /><br />
+➡️ Enter Details and Can also see all the Entries in Report Page.<br />
 ➡️ This Webpage is basically made by Below Technologies.<br />
 ➡️ HTML<br />
-➡️ CSS<br /><br /><br /><br /><br />
-➡️ BOOTSTRAP<br /><br /><br /><br />
-➡️ PHP <br /><br /><br />
-➡️ MySQLi<br /><br />
+➡️ CSS<br />
+➡️ BOOTSTRAP<br />
+➡️ PHP<br />
+➡️ MySQLi<br />
 ➡️ PHPMYADMIN (DATABASE)<br />
 
 #Form Interface.
@@ -17,4 +17,5 @@ This is basic Student Information Form using PHP.<br /><br /><br />
 
 
 #Student Details Interface.
+
 ![Student-Report](https://user-images.githubusercontent.com/56908101/125900847-ee4b48ea-c45a-40d6-8592-d001c18745c4.png)
